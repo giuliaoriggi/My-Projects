@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Sito Portfolio"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Sito eng portfolio"
+	}
+}
